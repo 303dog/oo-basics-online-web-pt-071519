@@ -44,7 +44,7 @@ class Shoe
     if condition == "repaired"
     puts "repaired"
   else
-    puts "new"
+    puts "Your shoe is as good as new!"
   end
   end
 
