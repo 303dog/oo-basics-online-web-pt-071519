@@ -43,7 +43,7 @@ class Shoe
   def cobble
     if condition == "new"
     puts "Your shoe is as good as new!"
-  else
+  elsif condition == "repaired"
     puts "Shoe has been repaired."
   end
   end
