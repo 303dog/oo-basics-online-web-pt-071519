@@ -47,5 +47,5 @@ class Shoe
     puts "new"
   end
   end
-  end
+
 end
