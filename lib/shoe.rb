@@ -46,4 +46,8 @@ class Shoe
   else
     puts "new"
   end
-end 
+  end
+  end
+  end
+end
+end
