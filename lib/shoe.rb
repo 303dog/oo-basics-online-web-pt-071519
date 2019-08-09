@@ -50,4 +50,3 @@ class Shoe
   end
   end
 end
-end
