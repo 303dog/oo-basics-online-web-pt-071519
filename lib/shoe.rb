@@ -40,7 +40,7 @@ class Shoe
     @condition
   end
   
-  def cobble
+  def cobble(condition)
     if condition == "new"
     puts "Your shoe is as good as new!"
   elsif condition == "repaired"
