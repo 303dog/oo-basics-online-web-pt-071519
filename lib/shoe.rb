@@ -41,6 +41,9 @@ class Shoe
   end
   
   def cobble
-    puts "the shoe has been repaired"
+    if condition == "repaired"
+    puts "repaired"
+  else
+    puts "new"
   end
 end 
