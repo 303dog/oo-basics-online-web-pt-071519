@@ -45,6 +45,7 @@ class Shoe
     puts "Your shoe is as good as new!"
   elsif condition == "repaired"
     puts "Shoe has been repaired."
+  binding.pry
   end
   end
 end
